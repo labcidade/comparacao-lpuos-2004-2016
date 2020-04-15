@@ -1,0 +1,8 @@
+Arquivo	Variável	Descrição
+Zonas_LPUOS_2016.qml		Estilo de camada QGIS inspirado no mapa oficial da LPUOS 2016
+CAmax_LPUOS_2004-2016.qml		Estilo de camada QGIS com variação de CA entre 2004 e 2016
+CAmax_LPUOS_2004-2016.dbf	ZONA_2004	Zona de uso LPUOS 2004
+CAmax_LPUOS_2004-2016.dbf	CAmax_2004	Coeficiente de aproveitamento máximo LPUOS 2016
+CAmax_LPUOS_2004-2016.dbf	ZONA_2016	Zona de uso LPUOS 2016
+CAmax_LPUOS_2004-2016.dbf	CAmax_2016	Coeficiente de aproveitamento máximo LPUOS 2016
+CAmax_LPUOS_2004-2016.dbf	CAb_2016	Coeficiente de aproveitamento bônus LPUOS 2016 (além do máximo), disponibilizado por artigos de exceção e notas de rodapé
