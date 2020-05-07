@@ -1,4 +1,4 @@
-Comparativo entre coeficientes de aproveitamento máximos das LPUOS 2004 e 2016
+Comparação entre coeficientes de aproveitamento máximos das LPUOS 2004 e 2016
 ============
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
